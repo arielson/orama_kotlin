@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Desafio Órama</string>
+    <string name="desafio_orama">Desafio Órama</string>
+    <string name="logo">logo</string>
+    <string name="aplicacao_minima">Aplicação mínima</string>
+    <string name="nome">Nome</string>
+    <string name="estrategia">Estratégia</string>
+    <string name="objetivo">Objetivo</string>
+    <string name="gerente">Gerência</string>
+</resources>
